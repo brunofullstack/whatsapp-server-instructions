@@ -1,4 +1,4 @@
-Para enviar uma requisição POST para o endpoint `http://195.200.2.140:4200/send-message` com o corpo JSON fornecido, você pode usar várias ferramentas e métodos. Aqui estão alguns exemplos usando diferentes abordagens:
+Enviar uma requisição POST para o endpoint `http://195.200.2.140:4200/send-message` com o corpo JSON fornecido, você pode usar várias ferramentas e métodos. Aqui estão alguns exemplos usando diferentes abordagens:
 
 ### Usando cURL no Terminal
 ```bash
